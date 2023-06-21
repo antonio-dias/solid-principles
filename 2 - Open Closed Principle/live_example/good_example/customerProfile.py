@@ -1,6 +1,6 @@
 import abc
 
-class CustomerProfile:
+class CustomerProfile(metaclass=abc.ABCMeta):
 
     @abc.abstractmethod
     def isLoyalCustomer(self):

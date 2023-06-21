@@ -46,3 +46,14 @@ Project about learning the five Principles of the SOLID
 > Break the hierarchy
 > 
 > "Tell, don't ask"
+
+### I - Interface Segregation Principle
+#### *No client should be forced to depend on methods it does not use*
+#### [Live code example](https://github.com/antonio-dias/solid-principles/tree/master/4%20-%20Interface%20Segregation%20Principle/live_example)
+
+> ### Techniques to identify violations in this principle
+> Fat Interfaces.
+> 
+> Interfaces with Low Cohesion.
+> 
+> Empty method implementations.
