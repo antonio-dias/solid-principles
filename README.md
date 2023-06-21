@@ -37,3 +37,12 @@ Project about learning the five Principles of the SOLID
 > You will end up with a huge number of classes that can complicate your overall design.
 > 
 > Make a subjective, rather than an objective decision.
+ 
+### L - Liskov Substitution Principle
+#### *Objects should be replaceable with their subtypes without affecting the correctness of the program*
+#### [Live code example](https://github.com/antonio-dias/solid-principles/tree/master/3%20-%20Liskov%20Substitution%20Principle/live_example)
+
+> ### Solution patterns
+> Break the hierarchy
+> 
+> "Tell, don't ask"
