@@ -57,3 +57,8 @@ Project about learning the five Principles of the SOLID
 > Interfaces with Low Cohesion.
 > 
 > Empty method implementations.
+
+### D - Dependency Inversion Principle
+#### *High-level modules should not depend on low-level. Both should depend on abstractions.*
+#### *Abstractions should not depend on details. Details should depend on abstractions.*
+#### [Live code example](https://github.com/antonio-dias/solid-principles/tree/master/5%20-%20Dependency%20Inversion%20Principle/live_example)
